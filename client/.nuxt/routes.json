@@ -1,0 +1,37 @@
+[
+  {
+    "name": "recipes",
+    "path": "/recipes",
+    "component": "/home/administrator/projects/recipes_app/client/pages/recipes/index.vue",
+    "chunkName": "pages/recipes/index",
+    "_name": "_c9473296"
+  },
+  {
+    "name": "recipes-add",
+    "path": "/recipes/add",
+    "component": "/home/administrator/projects/recipes_app/client/pages/recipes/add.vue",
+    "chunkName": "pages/recipes/add",
+    "_name": "_73da6478"
+  },
+  {
+    "name": "recipes-id",
+    "path": "/recipes/:id",
+    "component": "/home/administrator/projects/recipes_app/client/pages/recipes/_id/index.vue",
+    "chunkName": "pages/recipes/_id/index",
+    "_name": "_a8edc1c0"
+  },
+  {
+    "name": "recipes-id-edit",
+    "path": "/recipes/:id/edit",
+    "component": "/home/administrator/projects/recipes_app/client/pages/recipes/_id/edit.vue",
+    "chunkName": "pages/recipes/_id/edit",
+    "_name": "_6682a02c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/administrator/projects/recipes_app/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2c9f149f"
+  }
+]
